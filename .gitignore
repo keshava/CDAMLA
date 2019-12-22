@@ -1,0 +1,11 @@
+build/**
+data/**
+data/*.csv
+test/__pycache__/
+*.pyc
+**/.cache/*
+.idea
+.vscode
+.ipynb_checkpoints
+**/env/**
+.pytest_cache
